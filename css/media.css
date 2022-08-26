@@ -1,0 +1,22 @@
+/*
+
+PRINCIPAIS BREAKPOINTS
+
+1201px á cima: telas enormes (TV's, projetores)
+1025px - 1200px: Desktops, telas grandes (widescreen)
+769px - 1024px: Telas pequenas, notebooks laptops
+481px - 768px: Ipads, tablets
+320px - 480px: Dispositivos móveis
+
+*/
+
+/*Desktop*/
+@media screen and (max-width:1200px) {
+    html,body{
+        overflow: hidden;
+    }
+
+    /*Locais que deram problema no site, que precisaram de alteração*/
+    
+
+}
